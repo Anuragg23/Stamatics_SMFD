@@ -19,6 +19,3 @@ This repository contains the implementation and results of **Tasks**
 - **Anurag**  
   Responsible for code implementation and Bonus part and handwritten separate solution mentioned 
 
-
-## Folder Structure
-
